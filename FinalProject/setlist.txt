@@ -1,0 +1,31 @@
+It's show time! Here is your rock setlist:
+
+Name                 Key      Time Signature              Length
+
+Carry on Wayward Son                  Am                 4/4                   5:23
+   Distorion Level: 5
+
+Seek and Destroy                  Em                 4/4                   5:55
+   Distorion Level: 10
+
+Cliffs of Dover                   G                 4/4                   4:13
+   Distorion Level: 6
+
+Hotel California                  Bm                 4/4                   6:44
+   Distorion Level: 3
+
+Freebird                   G                 4/4                   9:11
+   Distorion Level: 5
+
+Sweet Child O Mine                 F#m                 4/4                   5:55
+   Distorion Level: 7
+
+Thunderstruck                   B                 4/4                   5:1
+   Distorion Level: 8
+
+Stairway to Heaven                  Am                 4/4                   8:3
+   Distorion Level: 6
+
+test                   g                 4/4                   4:45
+   Distorion Level: 5
+

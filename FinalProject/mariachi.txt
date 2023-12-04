@@ -1,0 +1,7 @@
+Las Mananitas,A,3/4,4,22,yes
+Se Va Muriendo Mi Alma,F,2/4,3,45,no
+El Karma,D,3/4,4,58,no
+El Centenario,F,3/4,3,21,yes
+Playa Sola,G,2/4,2,47,no
+Tragos Amargos,C,3/4,3,54,yes
+Tatuajes,G,2/4,3,34,yes

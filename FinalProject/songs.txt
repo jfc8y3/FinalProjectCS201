@@ -1,0 +1,9 @@
+Hotel California,Bm,4/4,6,44
+Freebird,G,4/4,9,11
+Swwet Child O Mine,F#m,4/4,5,55
+Thunderstruck,B,4/4,5,01
+Stairway to Heaven,Am,4/4,8,03
+Las Mananitas,A,3/4,4,22
+Se Va Muriendo Mi Alma,F,2/4,3,45
+El Karma,D,3/4,4,58
+El Centenario,F,3/4,3,21

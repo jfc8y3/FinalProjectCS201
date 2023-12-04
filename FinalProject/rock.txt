@@ -1,0 +1,8 @@
+Carry on Wayward Son,Am,4/4,5,23,5
+Seek and Destroy,Em,4/4,5,55,10
+Cliffs of Dover,G,4/4,4,13,6
+Hotel California,Bm,4/4,6,44,3
+Freebird,G,4/4,9,11,5
+Sweet Child O Mine,F#m,4/4,5,55,7
+Thunderstruck,B,4/4,5,01,8
+Stairway to Heaven,Am,4/4,8,03,6

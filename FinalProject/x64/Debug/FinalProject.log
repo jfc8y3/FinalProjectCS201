@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\User\FinalProject\main.cpp(116,14): warning C4101: 'choice2': unreferenced local variable
+  FinalProject.vcxproj -> C:\Users\User\FinalProject\x64\Debug\FinalProject.exe
